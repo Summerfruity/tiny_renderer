@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.20)
+project(render)
+add_definitions(-std=c++11)
+include_directories(.)
+file(GLOB SOURCES *.h *.cpp)
+add_executable(${PROJECT_NAME} ${SOURCES})

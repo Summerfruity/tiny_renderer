@@ -1,0 +1,3 @@
+/home/summerfruity/tinyrenderer/src/build/CMakeFiles/render.dir
+/home/summerfruity/tinyrenderer/src/build/CMakeFiles/edit_cache.dir
+/home/summerfruity/tinyrenderer/src/build/CMakeFiles/rebuild_cache.dir

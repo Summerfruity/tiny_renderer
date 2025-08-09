@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/render.dir/geometry.cpp.o CMakeFiles/render.dir/main.cpp.o CMakeFiles/render.dir/model.cpp.o CMakeFiles/render.dir/our_gl.cpp.o CMakeFiles/render.dir/tgaimage.cpp.o -o render 
