@@ -78,6 +78,8 @@ tinyrenderer/
 ```sh
 convert output.tga output.png
 ```
+<img width="847" height="827" alt="image" src="https://github.com/user-attachments/assets/1f5da79c-b442-4c0f-91f2-dc27de6860f6" />
+
 
 ## 主要源码说明
 
